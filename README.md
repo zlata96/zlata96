@@ -1,6 +1,8 @@
 # Hello, World! 👋
 
-✨ My name is **Zlata**. 
+✨ My name is **Zlata**
+
+I'm iOS Developer
 
 ## 📌 GitHub Stats
 
