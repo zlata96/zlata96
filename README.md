@@ -2,8 +2,6 @@
 
  My name is **Zlata Guseva**
 
- I'm looking for iOS Developer position. 
-
  I’m an iOS developer with 1 year of experience, including 8 months of practical work on an individual project. I participated in the development of a [habit tracker app](https://github.com/FunnyPuny/iOS-App), working in a team with 5 members, we aimed to simulate the conditions of working in a commercial environment.  We carried out task planning, daily meetings to evaluate their completion and subsequent adjustments. The result of our work was a successfully published application in the [AppStore](https://apple.co/3jpuH4h).
 
  In recent months, I’ve been involved in a commercial project to create a Travel application. I was able to demonstrate a high level of my skills, quickly adapt to new conditions and effectively solve assigned tasks.
